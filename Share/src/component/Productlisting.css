@@ -1,0 +1,11 @@
+.ProductPrices.sale h4.regular {
+  -webkit-text-decoration-line: none;
+  text-decoration-line: none;
+  font-weight: 700;
+}
+
+@media only screen and (max-width:480px){
+  .ProductItem__image__holder {
+    height: 200px;
+}
+}

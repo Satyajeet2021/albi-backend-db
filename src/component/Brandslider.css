@@ -1,0 +1,140 @@
+.brandslider .swiper {
+  width: 110%;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+    overflow: hidden;
+    list-style: none;
+    padding: 30px;
+    z-index: 1;
+}
+.brandslider .swiper-wrapper{
+  width: 2453px !important;
+}
+.brandslider .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  height: calc((100% - 30px) / 2) !important;
+  width:310.5px !important;
+
+  /* Center slide text vertically */
+  /* display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center; */
+}
+.HomeSlider__item {
+  width: 292px;
+  max-width: 292px;
+  height: 292px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+a {
+  text-decoration: none;
+  color: #000;
+  transition: .4s ease-in-out;
+}
+.HomeSlider__item a {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: relative;
+}
+.HomeSlider__item__image {
+  width: 100%;
+  height: 100%;
+  display: block;
+  overflow: hidden;
+  max-height: 292px;
+  border-radius: 10px;
+}
+.HomeSlider__item__image img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.HomeSlider__item__logo:hover {
+  background: rgba(0,0,0,.7);
+}
+.HomeSlider__item__logo {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  background: rgba(0,0,0,.5);
+  transition: .3s ease;
+  border-radius: 10px;
+}
+.HomeSlider__item__logo img {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
+.swiper-grid-column>.swiper-wrapper {
+  flex-direction: inherit !important;
+}
+.brandslider .swiper-button-next, .brandslider .swiper-button-prev{
+  margin-top: -48px !important;
+}
+.brandslider .swiper-button-next{
+  right: 383px;
+  left: auto;
+}
+
+@media only screen and (max-width:640px){
+  .brandstore {
+    padding: 15px;
+}
+.brandslider .swiper {
+  padding: 20px;
+  width: auto;
+}
+  .brandslider .swiper-slide {
+    width: 150px !important;
+}
+.brandslider .swiper-wrapper {
+  width: 772px !important;
+}
+.HomeSlider__item {
+  width: 145px;
+  max-width: 150px;
+  height: 145px;
+}
+}
+
+@media only screen and (min-width:641px) and (max-width:768px) {
+  .brandstore {
+    padding: 30px;
+}
+  }
+
+  @media only screen and (min-width:769px) and (max-width:991px) {
+    .brandstore {
+      padding: 0px;
+  }
+  }  
+  @media only screen and (min-width:992px) and (max-width:1024px) {
+    .brandstore {
+      padding: 30px;
+  }
+  }

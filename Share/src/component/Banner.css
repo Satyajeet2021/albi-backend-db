@@ -1,0 +1,62 @@
+.textcta h1{
+  font-size: 42px;
+  font-weight: 300;
+  color: #fff;
+}
+.textcta p{
+  font-size: 16px;
+    font-weight: 200;
+    color: #fff;
+}  
+.textcta button{
+    font-size: 12px;
+    padding: 21px 51px;
+    letter-spacing: 3px;
+    line-height: unset;
+    margin-top: 40px;
+}
+  @media only screen and (max-width:640px){
+    .textcta .heading{
+        font-size: 21px;
+        color: #fff;
+        font-family: "Poppins";
+        font-weight: 400;
+    }
+    .imgcta p{
+      font-size: 12px;
+    } 
+    .imgcta button{
+      font-size: 12px;
+    }  
+    .imgcta img{
+      object-fit: cover;
+    }  
+  }
+  
+  @media only screen and (min-width:641px) and (max-width:768px) {
+    .textcta {
+      padding: 30px;
+  }
+  .imgcta{
+    padding: 0px 30px 0px 0px;
+  } 
+  }
+
+  @media only screen and (min-width:769px) and (max-width:991px) {
+    .textcta {
+      padding: 30px 0px;
+  }
+  .imgcta{
+    padding: 0px;
+  } 
+  }
+
+  @media only screen and (min-width:992px) and (max-width:1024px) {
+    .textcta {
+      padding: 30px;
+  }
+  .imgcta{
+    padding: 0px 30px 0px 0px;
+  } 
+  }
+

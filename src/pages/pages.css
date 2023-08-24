@@ -1,0 +1,41 @@
+section.faq-title.styles_faq-row__2YF3c {
+    padding: 6px 10px; 
+}
+.styles_faq-row-wrapper__3vA1D h2 { 
+    color: #080809; 
+}
+
+
+.row-title.closed.styles_row-title__1YiiY.styles_closed__39w54.styles_no-tabfocus__1HmyD {
+    color: #080809 !important;
+}
+
+section.faq-row.styles_faq-row__2YF3c {
+    padding: 0px 12px;
+}
+
+.privacy-heading{
+    font-size: 28px;
+    height: 65px;
+    text-align: center;
+}
+
+.delivery p {
+    padding: 0px 0px 14px 0px;
+}
+
+ .partners { 
+        height: 474px;
+        position: relative;
+        border: 1px solid #f8f8f8;
+        border-bottom: none;
+} 
+
+ .partners img {
+    width: 500px !important;
+    height: 200px !important;
+    object-fit: contain !important;
+}
+.inner-pages{
+    background-color: #ffff !important;
+}

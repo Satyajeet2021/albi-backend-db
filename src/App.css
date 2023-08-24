@@ -1,0 +1,212 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* new css */
+.border-red-600.product-color-img img {
+  line-height: 71px;
+  top: 404px;
+  position: absolute;
+  width: 2%;
+}
+
+img.firstimg {
+  display: none;
+}
+
+
+
+
+.order-success-page p{
+  color: #000;
+  font-family: "Nunito Sans", "Helvetica Neue", sans-serif;
+  font-size:18px;
+  margin:0;
+  margin-bottom: 10px;
+}
+
+.success h3 {
+  font-size: 20px;
+  font-weight: 800;
+  padding: 10px 0px;
+}
+.success-h2 {
+  color: #88B04B;
+  font-family: "Nunito Sans", "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.card-success {
+  background: white;
+  padding: 35px;
+  border-radius: 4px;
+  box-shadow: 0 2px 3px #C8D0D8;
+  display: inline-block;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.order{
+  background-color: rgba(0,0,0,.1);
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+.order-box{
+  width: 50%;
+  height: auto;
+}
+.order-box img{
+  width: 100%;
+}
+.order-box p{
+  text-align: left;
+  font-weight: bold;
+}
+.order-box p span{
+  font-weight: 300;
+}
+.order-image{
+  margin-bottom: 15px;
+}
+
+.wishlist .CartList{
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.bg-gray-500 { 
+  background-color: #f3f4f6;
+}
+ 
+
+
+.card-success table, .card-success th, .card-success td {
+  border: 1px solid;
+}
+.card-success table {
+  width: 100%;
+}
+.succ-right {
+  float: left;
+  margin-top: 70px;
+}
+button.btn1succ {
+  background: #9ABC66;
+  color: #fff;
+  padding: 10px 15px 10px 15px;
+  border-radius: 32px;
+  margin-bottom: 20px;
+  width: 194px;;
+}
+.btn2succ{
+  background: transparent;
+  color: #000;
+  padding: 10px 15px 10px 15px;
+  border-radius: 32px;
+  font-weight: 800;
+  border: 1px solid #9ABC66;
+}
+tr.last-tr td {
+  font-weight: 700;
+}
+.succ-right table tr {
+  height: 40px;
+}
+tr.tr-header {
+  background:#bab8b8;
+  border-spacing: 0px;
+}
+
+.succ-right p {
+  font-size: 13px;
+  text-align: left;
+  color: #000;
+}
+
+@media only screen and (min-width: 768px){
+  .order-success-page {
+    text-align: center;
+    padding: 30px 0;
+    margin-top: 175px;
+  }
+  .mobile-order {
+    display: none;
+  }
+  .succ-left {
+    float: right;
+  }
+  i{
+    color: #9ABC66;
+    font-size: 40px;
+      line-height: 98px;
+      margin-left: -15px;
+  }
+  .success {
+    padding: 0px 42px;
+  }
+}
+@media only screen and (max-width: 767px){
+.mobile-order {
+  display: block;
+  margin-top: 68px;
+}
+i {
+  color: #9ABC66;
+  font-size: 40px;
+  line-height: 103px;
+  margin-left: 32px;
+}
+.desktop-order {
+  display: none ;
+}
+.success {
+  padding: 0px 20px;
+}
+.mobile-order .mob-wid {
+  text-align: center;
+}
+p.shiko {
+  text-decoration-line: underline;
+  margin-top: 20px;
+}
+}

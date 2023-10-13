@@ -1,0 +1,93 @@
+git log --oneline
+
+
+git log
+m1, m2, m3
+--show cpmmit--
+
+git checkout feature
+git log
+f1 f2
+git checkot feature
+git add .
+git commit -m "add new"
+
+
+switch to the master
+git master
+
+git log
+m3
+
+
+git merge feature
+git merge --squash feature
+
+git commit -m "master"
+
+
+git log
+=====
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sakshibhatiaVE/demo.git
+git push -u origin main
+
+git push -u origin roles
+git remote add origin https://github.com/sakshibhatiaVE/qrewadmin1.git
+-==============================================
+delete .git
+create branch <branch name>
+C:\Users\satyajeet\Desktop\askshi\qrewadmin\qrewadmin>git branch
+master
+* roles
+git init
+git add README.md
+git commit -m "first commit"
+// git branch -M main
+git remote add origin https://github.com/sakshibhatiaVE/demo.git
+git push -u origin roles
+=======================
+C:\Users\satyajeet\Desktop\Anjular\adminpanel>git branch            
+* logoin
+  master
+
+C:\Users\satyajeet\Desktop\Anjular\adminpanel>git pull origin logout
+remote: Enumerating objects: 23, done.
+remote: Counting objects: 100% (23/23), done.
+remote: Compressing objects: 100% (8/8), done.
+remote: Total 15 (delta 10), reused 11 (delta 7), pack-reused 0
+Unpacking objects: 100% (15/15), 3.02 KiB | 41.00 KiB/s, done.
+From https://github.com/sakshibhatiaVE/adminpanel
+ * branch            logout     -> FETCH_HEAD
+ * [new branch]      logout     -> origin/logout
+Updating bfe2359..c3c4392
+Fast-forward
+ src/app/app.component.html                      |  4 ++--
+ src/app/components/navbar/navbar.component.html |  2 +-
+ src/app/components/navbar/navbar.component.ts   | 13 +++++++++++--
+ src/app/login/login.component.ts                |  4 ++--
+ 4 files changed, 16 insertions(+), 7 deletions(-)
+
+C:\Users\satyajeet\Desktop\Anjular\adminpanel>mg serve   
+
+==================
+
+PS C:\Users\satyajeet\Desktop\Anjular\adminpanel> git branch            
+* logoin
+  master
+PS C:\Users\satyajeet\Desktop\Anjular\adminpanel> git pull origin logout
+remote: Enumerating objects: 13, done.
+remote: Counting objects: 100% (13/13), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 7 (delta 5), reused 7 (delta 5), pack-reused 0
+Unpacking objects: 100% (7/7), 665 bytes | 9.00 KiB/s, done.
+From https://github.com/sakshibhatiaVE/adminpanel
+ * branch            logout     -> FETCH_HEAD
+   c3c4392..cfb3296  logout     -> origin/logout
+Updating c3c4392..cfb3296
+Fast-forward
+ src/app/components/navbar/navbar.component.html | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)

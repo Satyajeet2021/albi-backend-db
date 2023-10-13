@@ -1,0 +1,1653 @@
+[{
+  "_id": {
+    "$oid": "63219430d97be698986a1ee5"
+  },
+  "name": "Veshje",
+  "slug": "Veshje",
+  "unqId": "1.1",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/d3nfDGSKX-Bikine.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632194bdd97be698986a1eea"
+  },
+  "name": "T Bluzë",
+  "slug": "T-Bluze",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.1",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/kt3n5dj2l-Tbluze.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632194fcd97be698986a1ef8"
+  },
+  "name": "Pulovër",
+  "slug": "pulovër",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.2",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/LWov8yQTJ-Fustan.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63219510d97be698986a1efa"
+  },
+  "name": "Bluzë",
+  "slug": "Bluzë",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.3",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/OBcS5mGa6-Pulover.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63219538d97be698986a1efc"
+  },
+  "name": "Fustan",
+  "slug": "fustan",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.4",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/dBtyuRTHs-Triko.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63219558d97be698986a1efe"
+  },
+  "name": "Fund",
+  "slug": "fund",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.5",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/N2ZYUlq2s-Kmish.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63219573d97be698986a1f00"
+  },
+  "name": "Këmishë",
+  "slug": "kemishe",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.6",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/niJMcrmEu-Pallto.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63219586d97be698986a1f02"
+  },
+  "name": "Pallto",
+  "slug": "pallto",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.7",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/uDW2GRydF-Xhaket.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321959ad97be698986a1f04"
+  },
+  "name": "Xhaketë",
+  "slug": "Xhup",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.8",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/YgZKezQkg-Xhup.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632195aed97be698986a1f06"
+  },
+  "name": "Xhup",
+  "slug": "hhup",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.9",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/7c3FTm6pB-Jelek.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632195c3d97be698986a1f08"
+  },
+  "name": "Jelek",
+  "slug": "jelek",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.10",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/bZSxKVoSL-Xhinse.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632195d6d97be698986a1f0a"
+  },
+  "name": "Xhinse",
+  "slug": "xhinse",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.11",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/-mXJ_hUO5-pantollona.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632195ecd97be698986a1f0c"
+  },
+  "name": "Pantallona",
+  "slug": "pantallona",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.12",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/bPy0G_9RD-PantollaShkurt.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632195fed97be698986a1f0e"
+  },
+  "name": "Pantallona të shkurtra",
+  "slug": "pantallona_te_shkurtra",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.13",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/iQ8milZTJ-Strece.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321960fd97be698986a1f10"
+  },
+  "name": "Streçe",
+  "slug": "strece",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.14",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/81S0QkcAD-Kominoshe.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63219623d97be698986a1f12"
+  },
+  "name": "Kominoshe",
+  "slug": "Kominoshe",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.15",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/k4NPuThz8-Fund.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632196b8d97be698986a1f14"
+  },
+  "name": "Çorape dhe geta",
+  "slug": "Corape-dhe-geta",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.16",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/ZtrZolW3L-Cizme-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632196e8d97be698986a1f16"
+  },
+  "name": "Sport",
+  "slug": "Sport",
+  "parentId": "63219430d97be698986a1ee5",
+  "unqId": "1.1.17",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/eu2x2OELf-veshje-sportive-4.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321974ad97be698986a1f27"
+  },
+  "name": "Këpucë",
+  "slug": "Kepuce",
+  "unqId": "1.2",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/WDikenOZO-kepuce-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63219771d97be698986a1f2b"
+  },
+  "name": "Atlete",
+  "slug": "Atlete",
+  "parentId": "6321974ad97be698986a1f27",
+  "unqId": "1.2.1",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/o45Sa04wu-atlete-3.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63219781d97be698986a1f2d"
+  },
+  "name": "Këpucë",
+  "slug": "Kepuce",
+  "parentId": "6321974ad97be698986a1f27",
+  "unqId": "1.2.2",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/hjGWEnKPe-kepuce-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63219790d97be698986a1f2f"
+  },
+  "name": "Çizme",
+  "slug": "Cizme",
+  "parentId": "6321974ad97be698986a1f27",
+  "unqId": "1.2.3",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/NmB-GjU-o-Cizme-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632197a4d97be698986a1f31"
+  },
+  "name": "Balerina",
+  "slug": "Balerina",
+  "parentId": "6321974ad97be698986a1f27",
+  "unqId": "1.2.4",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/p-CTKzc5H-Baletanka-black.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632197b3d97be698986a1f33"
+  },
+  "name": "Sandale",
+  "slug": "Sandale",
+  "parentId": "6321974ad97be698986a1f27",
+  "unqId": "1.2.5",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/9CpLlp9Cf-Sandale.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632197c3d97be698986a1f35"
+  },
+  "name": "Pantofla",
+  "slug": "Pantofla",
+  "parentId": "6321974ad97be698986a1f27",
+  "unqId": "1.2.6",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/SqaworeHV-pantofla.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632197ded97be698986a1f37"
+  },
+  "name": "Aksesorë këpucësh",
+  "slug": "Aksesore-kepucesh",
+  "parentId": "6321974ad97be698986a1f27",
+  "unqId": "1.2.7",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/88AM_0s9k-mokasina-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a2cfd97be698986a1f6a"
+  },
+  "name": "Të brendshme",
+  "slug": "Te-brendshme",
+  "unqId": "1.3",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/x90T0FGAy-boksere-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a318d97be698986a1f6e"
+  },
+  "name": "Pizhame",
+  "slug": "Pizhame",
+  "parentId": "6321a2cfd97be698986a1f6a",
+  "unqId": "1.3.1",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/Cbu-5IiVO-Pizhama-te-brendshme-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a32ad97be698986a1f70"
+  },
+  "name": "Veshje nate",
+  "slug": "Veshje-nate",
+  "parentId": "6321a2cfd97be698986a1f6a",
+  "unqId": "1.3.2",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/lWER6fPfr-Veshje-Nate.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a33dd97be698986a1f72"
+  },
+  "name": "Kanatierë",
+  "slug": "Kanatiere",
+  "parentId": "6321a2cfd97be698986a1f6a",
+  "unqId": "1.3.3",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/uozRGjS36-Kabatiere.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a34fd97be698986a1f74"
+  },
+  "name": "Brekë",
+  "slug": "Breke",
+  "parentId": "6321a2cfd97be698986a1f6a",
+  "unqId": "1.3.4",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/YcoycXhWG-breke.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a366d97be698986a1f76"
+  },
+  "name": "Sutjena",
+  "slug": "Sutjena",
+  "parentId": "6321a2cfd97be698986a1f6a",
+  "unqId": "1.3.5",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/xjMGrhGEo-sutjenat.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a380d97be698986a1f78"
+  },
+  "name": "Body",
+  "slug": "Body",
+  "parentId": "6321a2cfd97be698986a1f6a",
+  "unqId": "1.3.6",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/dKfO0BGiA-formsuese-per-trup.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a396d97be698986a1f7a"
+  },
+  "name": "Maternitet",
+  "slug": "Maternitet",
+  "parentId": "6321a2cfd97be698986a1f6a",
+  "unqId": "1.3.7",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/oudhE_K_Q-Lehone.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a422d97be698986a1f7e"
+  },
+  "name": "Aksesorë",
+  "slug": "Aksesore",
+  "unqId": "1.4",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/Kn946bm8K-aksesore.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a4d2d97be698986a1f82"
+  },
+  "name": "Çantë",
+  "slug": "Cante",
+  "parentId": "6321a422d97be698986a1f7e",
+  "unqId": "1.4.1",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/vj1aoMar4-canta.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a4e8d97be698986a1f84"
+  },
+  "name": "Kuletë",
+  "slug": "kulete",
+  "parentId": "6321a422d97be698986a1f7e",
+  "unqId": "1.4.2",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/TapqJKHjh-bizhuteri-dhe-stoli.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a501d97be698986a1f86"
+  },
+  "name": "Syze",
+  "slug": "Syze",
+  "parentId": "6321a422d97be698986a1f7e",
+  "unqId": "1.4.3",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/V2g-Yj0qk-ora.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a518d97be698986a1f88"
+  },
+  "name": "Shall",
+  "slug": "Shall",
+  "parentId": "6321a422d97be698986a1f7e",
+  "unqId": "1.4.4",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/U-prF4U3_-Rrip.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a52cd97be698986a1f8a"
+  },
+  "name": "Dorëza",
+  "slug": "Doreza",
+  "parentId": "6321a422d97be698986a1f7e",
+  "unqId": "1.4.5",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/SosA1H685-syze.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a542d97be698986a1f8c"
+  },
+  "name": "Kapelë",
+  "slug": "Kapele",
+  "parentId": "6321a422d97be698986a1f7e",
+  "unqId": "1.4.6",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/mb41jQD0O-portofol.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a556d97be698986a1f8e"
+  },
+  "name": "Bizhuteri",
+  "slug": "Bizhuteri",
+  "parentId": "6321a422d97be698986a1f7e",
+  "unqId": "1.4.7",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/YOC1O5pBS-Shall.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a566d97be698986a1f90"
+  },
+  "name": "Orë",
+  "slug": "Ore",
+  "parentId": "6321a422d97be698986a1f7e",
+  "unqId": "1.4.8",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/LVB3jV4hc-doreze.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a5a2d97be698986a1f92"
+  },
+  "name": "Rrip",
+  "slug": "Rrip",
+  "parentId": "6321a422d97be698986a1f7e",
+  "unqId": "1.4.9",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/pFxVOQYde-kapele.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a5c8d97be698986a1f94"
+  },
+  "name": "Parfum",
+  "slug": "Parfum",
+  "parentId": "6321a422d97be698986a1f7e",
+  "unqId": "1.4.10",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/uU9bi2FzK-parfum.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a5e2d97be698986a1f96"
+  },
+  "name": "Aksesorë flokësh",
+  "slug": "Aksesore-flokesh",
+  "parentId": "6321a422d97be698986a1f7e",
+  "unqId": "1.4.11",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/u8RV47aX_-aksesore.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a5f7d97be698986a1f98"
+  },
+  "name": "Ombrellë",
+  "slug": "Ombrelle",
+  "parentId": "6321a422d97be698986a1f7e",
+  "unqId": "1.4.12",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/9iEvz3VP_-omrelle.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a848d97be698986a1fb0"
+  },
+  "name": "Veshje",
+  "slug": "Veshje",
+  "unqId": "3.1",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/Aumc3tSBk-Tbluze.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a8abd97be698986a1fb4"
+  },
+  "name": "T Bluzë",
+  "slug": "T-Bluze",
+  "parentId": "6321a848d97be698986a1fb0",
+  "unqId": "3.1.1",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/BT_RSgXzL-Fustan.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a8bbd97be698986a1fb6"
+  },
+  "name": "Fustan",
+  "slug": "Fustan",
+  "parentId": "6321a848d97be698986a1fb0",
+  "unqId": "3.1.2",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/A7YjonkA7-Fustan.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a8ccd97be698986a1fb8"
+  },
+  "name": "Pulovër",
+  "slug": "Triko",
+  "parentId": "6321a848d97be698986a1fb0",
+  "unqId": "3.1.3",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/okAOw22w3-Triko.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a8e8d97be698986a1fba"
+  },
+  "name": "Bluzë",
+  "slug": "Bluze",
+  "parentId": "6321a848d97be698986a1fb0",
+  "unqId": "3.1.4",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/g_eYU2a-T-Pulover.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a8fbd97be698986a1fbc"
+  },
+  "name": "Këmishë",
+  "slug": "Kemishe",
+  "parentId": "6321a848d97be698986a1fb0",
+  "unqId": "3.1.5",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/oORjE5sjA-Kmish.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a919d97be698986a1fbe"
+  },
+  "name": "Pallto",
+  "slug": "PalltoPardesy",
+  "parentId": "6321a848d97be698986a1fb0",
+  "unqId": "3.1.6",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/08NdRa6do-Pallto.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a92ed97be698986a1fc0"
+  },
+  "name": "Fund",
+  "slug": "Fund",
+  "parentId": "6321a848d97be698986a1fb0",
+  "unqId": "3.1.7",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/RwZdcDpaC-Xhaket.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a93ed97be698986a1fc2"
+  },
+  "name": "Xhaketë",
+  "slug": "Xhakete",
+  "parentId": "6321a848d97be698986a1fb0",
+  "unqId": "3.1.8",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/goTMZApoV-Xhup.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a950d97be698986a1fc4"
+  },
+  "name": "Xhup",
+  "slug": "Xhup",
+  "parentId": "6321a848d97be698986a1fb0",
+  "unqId": "3.1.9",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/vAaeg7bSQ-Jelek.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a96cd97be698986a1fc6"
+  },
+  "name": "Jelek",
+  "slug": "Jelek",
+  "parentId": "6321a848d97be698986a1fb0",
+  "unqId": "3.1.10",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/uiXzC8HAS-Xhinse.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a985d97be698986a1fc8"
+  },
+  "name": "Xhinse",
+  "slug": "Xhinse",
+  "parentId": "6321a848d97be698986a1fb0",
+  "unqId": "3.1.11",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/r5WDa5334-pantollona.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a999d97be698986a1fca"
+  },
+  "name": "Pantallona të shkurtra",
+  "slug": "Pantallona-te-shkurtra",
+  "parentId": "6321a848d97be698986a1fb0",
+  "unqId": "3.1.13",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/-ljMqE48t-PantollaShkurt.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a9c7d97be698986a1fcc"
+  },
+  "name": "Streçe",
+  "slug": "Strece",
+  "parentId": "6321a848d97be698986a1fb0",
+  "unqId": "3.1.14",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/BbnJJmYgb-Strece.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321a9d9d97be698986a1fce"
+  },
+  "name": "Kominoshe",
+  "slug": "Kominoshe",
+  "parentId": "6321a848d97be698986a1fb0",
+  "unqId": "3.1.15",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/wsBsLeTnu-Kominoshe.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321aa01d97be698986a1fd2"
+  },
+  "name": "Sport",
+  "slug": "Sport",
+  "parentId": "6321a848d97be698986a1fb0",
+  "unqId": "3.1.16",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/wtnE7MtTA-veshje-sportive-4.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321aac2d97be698986a1fd6"
+  },
+  "name": "Këpucë",
+  "slug": "Kepuce",
+  "unqId": "3.2",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/OTUY5flXF-atlete-3.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ab23d97be698986a1fda"
+  },
+  "name": "Atlete",
+  "slug": "Atlete",
+  "parentId": "6321aac2d97be698986a1fd6",
+  "unqId": "3.2.1",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/iMgKax-Bb-atlete-3.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ab5fd97be698986a1fdc"
+  },
+  "name": "Këpucë",
+  "slug": "Kepuce",
+  "parentId": "6321aac2d97be698986a1fd6",
+  "unqId": "3.2.2",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/l1cR9II_5-kepuce-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ab72d97be698986a1fde"
+  },
+  "name": "Çizme",
+  "slug": "Cizme",
+  "parentId": "6321aac2d97be698986a1fd6",
+  "unqId": "3.2.3",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/5zE34Kp_d-Cizme-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ab84d97be698986a1fe0"
+  },
+  "name": "Sandale",
+  "slug": "Sandale",
+  "parentId": "6321aac2d97be698986a1fd6",
+  "unqId": "3.2.4",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/d9B9ZbYnl-Sandale.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ab9ad97be698986a1fe2"
+  },
+  "name": "Pantofla",
+  "slug": "Pantofla",
+  "parentId": "6321aac2d97be698986a1fd6",
+  "unqId": "3.2.5",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/Ypf_nYa7N-pantofla.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321abc1d97be698986a1fe6"
+  },
+  "name": "Të brendshme",
+  "slug": "Te-brendshme",
+  "unqId": "3.3",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/07ffzdnFi-boksere-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ac2ed97be698986a1fea"
+  },
+  "name": "Pizhame",
+  "slug": "Pizhame",
+  "parentId": "6321abc1d97be698986a1fe6",
+  "unqId": "3.3.1",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/QTqc92xo4-Pizhama-te-brendshme-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ac60d97be698986a1fec"
+  },
+  "name": "Kanatierë",
+  "slug": "Kanatiere",
+  "parentId": "6321abc1d97be698986a1fe6",
+  "unqId": "3.3.2",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/dOfw80LqA-Kabatiere.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ac71d97be698986a1fee"
+  },
+  "name": "Brekë",
+  "slug": "Breke",
+  "parentId": "6321abc1d97be698986a1fe6",
+  "unqId": "3.3.3",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/wUbY8DIqy-breke.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ac82d97be698986a1ff0"
+  },
+  "name": "Boksere",
+  "slug": "Boksere",
+  "parentId": "6321abc1d97be698986a1fe6",
+  "unqId": "3.3.4",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/GcW4fb3DJ-boksere-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ac98d97be698986a1ff2"
+  },
+  "name": "Body",
+  "slug": "Body",
+  "parentId": "6321abc1d97be698986a1fe6",
+  "unqId": "3.3.5",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/x2LGavvdR-formsuese-per-trup.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321acc0d97be698986a1ff6"
+  },
+  "name": "Aksesorë",
+  "slug": "Aksesore",
+  "unqId": "3.4",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/9ty4TFAF6-aksesore.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ad8cd97be698986a2004"
+  },
+  "name": "Çantë",
+  "slug": "Cante",
+  "parentId": "6321acc0d97be698986a1ff6",
+  "unqId": "3.4.1",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/W6w6lQAZE-canta.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ad9ed97be698986a2006"
+  },
+  "name": "Aksesorë",
+  "slug": "Aksesore",
+  "parentId": "6321acc0d97be698986a1ff6",
+  "unqId": "3.4.2",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/5sc2wbcKJ-aksesore.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321adb0d97be698986a2008"
+  },
+  "name": "Rrip",
+  "slug": "Rrip",
+  "parentId": "6321acc0d97be698986a1ff6",
+  "unqId": "3.4.3",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/PCVKOEK1R-Rrip.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ae3ad97be698986a200a"
+  },
+  "name": "Syze",
+  "slug": "Syze",
+  "parentId": "6321acc0d97be698986a1ff6",
+  "unqId": "3.4.4",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/JAuEZv-7s-syze.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ae51d97be698986a200c"
+  },
+  "name": "Shall",
+  "slug": "Shall",
+  "parentId": "6321acc0d97be698986a1ff6",
+  "unqId": "3.4.5",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/gPqAjtms_-Shall.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ae76d97be698986a200e"
+  },
+  "name": "Dorëza",
+  "slug": "Doreza",
+  "parentId": "6321acc0d97be698986a1ff6",
+  "unqId": "3.4.6",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/O3BspqRSN-doreze.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321aeaed97be698986a2010"
+  },
+  "name": "Kapelë",
+  "slug": "Kapele",
+  "parentId": "6321acc0d97be698986a1ff6",
+  "unqId": "3.4.7",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/3U3-caZN9-kapele.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321aebfd97be698986a2012"
+  },
+  "name": "Aksesorë flokësh",
+  "slug": "Aksesore-flokesh",
+  "parentId": "6321acc0d97be698986a1ff6",
+  "unqId": "3.4.8",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/WWiqgcQ43-aksesore-flokesh.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321aed3d97be698986a2014"
+  },
+  "name": "Ombrellë",
+  "slug": "Ombrelle",
+  "parentId": "6321acc0d97be698986a1ff6",
+  "unqId": "3.4.9",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/RDx4G58w7-omrelle.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321aeefd97be698986a2016"
+  },
+  "name": "Çorape dhe geta",
+  "slug": "Corape-dhe-geta",
+  "parentId": "6321acc0d97be698986a1ff6",
+  "unqId": "3.4.10",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/CpQ4zC6u5-Cizme-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321af22d97be698986a2018"
+  },
+  "name": "Përparëse",
+  "slug": "Perparese",
+  "parentId": "6321acc0d97be698986a1ff6",
+  "unqId": "3.4.11",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/oYWshe21T-Pardesy.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321af46d97be698986a201a"
+  },
+  "name": "Thes gjumi",
+  "slug": "Thes-gjumi",
+  "parentId": "6321acc0d97be698986a1ff6",
+  "unqId": "3.4.12",
+  "genderBased": "kids",
+  "categoryIcon": "https://appapi.albionline.com/cicon/6FKpvrtvo-te-tjera.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321b043d97be698986a2020"
+  },
+  "name": "Dhomë gjumi",
+  "slug": "Veshje",
+  "unqId": "4.1",
+  "genderBased": "life",
+  "categoryIcon": "https://appapi.albionline.com/cicon/x1KsLa4th-Bikine.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321b0a8d97be698986a2024"
+  },
+  "name": "Jastëk",
+  "slug": "Jorgan",
+  "parentId": "6321b043d97be698986a2020",
+  "unqId": "4.1.1",
+  "genderBased": "life",
+  "categoryIcon": "https://appapi.albionline.com/cicon/moNnkiPjC-Tbluze.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321b0f1d97be698986a2026"
+  },
+  "name": "Këllëf jastëku ",
+  "slug": "kellef",
+  "parentId": "6321b043d97be698986a2020",
+  "unqId": "4.1.2",
+  "genderBased": "life",
+  "categoryIcon": "https://appapi.albionline.com/cicon/TMH3HIB0i-Fustan.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321b107d97be698986a2028"
+  },
+  "name": "Set çarçafësh",
+  "slug": "Triko",
+  "parentId": "6321b043d97be698986a2020",
+  "unqId": "4.1.3",
+  "genderBased": "life",
+  "categoryIcon": "https://appapi.albionline.com/cicon/Avs3EWxVI-Triko.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321b125d97be698986a202a"
+  },
+  "name": "Mbulesa",
+  "slug": "Mbulesa",
+  "parentId": "6321b043d97be698986a2020",
+  "unqId": "4.1.4",
+  "genderBased": "life",
+  "categoryIcon": "https://appapi.albionline.com/cicon/hE0wBwVW7-Pulover.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321b138d97be698986a202c"
+  },
+  "name": "Batanije",
+  "slug": "Batanije",
+  "parentId": "6321b043d97be698986a2020",
+  "unqId": "4.1.5",
+  "genderBased": "life",
+  "categoryIcon": "https://appapi.albionline.com/cicon/3SW3SRZz2-Kmish.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321b295d97be698986a2046"
+  },
+  "name": "Banjo",
+  "slug": "Kepuce",
+  "unqId": "4.2",
+  "genderBased": "life",
+  "categoryIcon": "https://appapi.albionline.com/cicon/Js2AXMc-H-kepuce-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321b2f7d97be698986a204a"
+  },
+  "name": "Peshqir",
+  "slug": "Peshqir",
+  "parentId": "6321b295d97be698986a2046",
+  "unqId": "4.2.1",
+  "genderBased": "life",
+  "categoryIcon": "https://appapi.albionline.com/cicon/rWKxZ9Z7F-atlete-3.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321b309d97be698986a204c"
+  },
+  "name": "Mantel dushi",
+  "slug": "Mantel dushi",
+  "parentId": "6321b295d97be698986a2046",
+  "unqId": "4.2.2",
+  "genderBased": "life",
+  "categoryIcon": "https://appapi.albionline.com/cicon/sV0ij5D5n-kepuce-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321b330d97be698986a204e"
+  },
+  "name": "Qilim banjoje",
+  "slug": "Qilim",
+  "parentId": "6321b295d97be698986a2046",
+  "unqId": "4.2.3",
+  "genderBased": "life",
+  "categoryIcon": "https://appapi.albionline.com/cicon/HsgnX_dha-Cizme-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321b344d97be698986a2050"
+  },
+  "name": "Pantofla",
+  "slug": "Pantofla",
+  "parentId": "6321b295d97be698986a2046",
+  "unqId": "4.2.4",
+  "genderBased": "life",
+  "categoryIcon": "https://appapi.albionline.com/cicon/0zom4VOzK-Sandale.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321b68bd97be698986a2062"
+  },
+  "name": "Kuzhinë",
+  "slug": "Te-brendshme",
+  "unqId": "4.3",
+  "genderBased": "life",
+  "categoryIcon": "https://appapi.albionline.com/cicon/s4M0KVJD4-boksere-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321b7ced97be698986a2066"
+  },
+  "name": "Përparëse",
+  "slug": "Përparëse",
+  "parentId": "6321b68bd97be698986a2062",
+  "unqId": "4.3.1",
+  "genderBased": "life",
+  "categoryIcon": "https://appapi.albionline.com/cicon/TuxnMjBVb-Pizhama-te-brendshme-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321b9e0d97be698986a2075"
+  },
+  "name": "Aksesorë",
+  "slug": "Aksesore",
+  "unqId": "4.4",
+  "genderBased": "life",
+  "categoryIcon": "https://appapi.albionline.com/cicon/ND8GQ8rfm-aksesore.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ba26d97be698986a2079"
+  },
+  "name": "Aromatizues",
+  "slug": "Aromatizues",
+  "parentId": "6321b9e0d97be698986a2075",
+  "unqId": "4.4.1",
+  "genderBased": "life",
+  "categoryIcon": "https://appapi.albionline.com/cicon/MPp9gpg18-aksesore.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321c231d97be698986a209f"
+  },
+  "name": "Dhomë gjumi",
+  "slug": "Dhome-gjumi",
+  "unqId": "5.1",
+  "genderBased": "life1",
+  "categoryIcon": "https://appapi.albionline.com/cicon/MVdOLFQaE-aksesore.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321c244d97be698986a20a1"
+  },
+  "name": "Banjo",
+  "slug": "Banjo",
+  "unqId": "5.2",
+  "genderBased": "life1",
+  "categoryIcon": "https://appapi.albionline.com/cicon/p8k2LYMwR-aksesore.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321c256d97be698986a20a3"
+  },
+  "name": "Kuzhinë",
+  "slug": "Kuzhine",
+  "unqId": "5.3",
+  "genderBased": "life1",
+  "categoryIcon": "https://appapi.albionline.com/cicon/yANOxhu48-aksesore.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321c2b4d97be698986a20a7"
+  },
+  "name": "Jastëk",
+  "slug": "Jastek",
+  "parentId": "6321c231d97be698986a209f",
+  "unqId": "5.1.1",
+  "genderBased": "life1",
+  "categoryIcon": "https://appapi.albionline.com/cicon/olSAXYZJJ-Broshe.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321c2cad97be698986a20a9"
+  },
+  "name": "Këllëf jastëku",
+  "slug": "Kellef-jasteku",
+  "parentId": "6321c231d97be698986a209f",
+  "unqId": "5.1.2",
+  "genderBased": "life1",
+  "categoryIcon": "https://appapi.albionline.com/cicon/8WDFOpZD5-canta.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321c2dbd97be698986a20ab"
+  },
+  "name": "Këllëf jastëku",
+  "slug": "Kellef-jasteku",
+  "parentId": "6321c231d97be698986a209f",
+  "unqId": "5.1.3",
+  "genderBased": "life1",
+  "categoryIcon": "https://appapi.albionline.com/cicon/PL_ND56Mh-charms.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321c2ecd97be698986a20ad"
+  },
+  "name": "Mbulesa",
+  "slug": "Mbulesa",
+  "parentId": "6321c231d97be698986a209f",
+  "unqId": "5.1.4",
+  "genderBased": "life1",
+  "categoryIcon": "https://appapi.albionline.com/cicon/h83SRuY2B-copora-dhe-gete.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321c331d97be698986a20af"
+  },
+  "name": "Batanije",
+  "slug": "Batanije",
+  "parentId": "6321c231d97be698986a209f",
+  "unqId": "5.1.5",
+  "genderBased": "life1",
+  "categoryIcon": "https://appapi.albionline.com/cicon/ueO8DvOY_-doreze.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321c34cd97be698986a20b1"
+  },
+  "name": "Peshqir",
+  "slug": "Peshqir",
+  "parentId": "6321c244d97be698986a20a1",
+  "unqId": "5.2.1",
+  "genderBased": "life1",
+  "categoryIcon": "https://appapi.albionline.com/cicon/l_jkkk2gY-aksesore-flokesh.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321c35ed97be698986a20b3"
+  },
+  "name": "Mantel dushi",
+  "slug": "Mantel-dushi",
+  "parentId": "6321c244d97be698986a20a1",
+  "unqId": "5.2.2",
+  "genderBased": "life1",
+  "categoryIcon": "https://appapi.albionline.com/cicon/XajIqZmot-aromatizue.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321c36ed97be698986a20b5"
+  },
+  "name": "Qilim banjoje",
+  "slug": "Qilim-banjoje",
+  "parentId": "6321c244d97be698986a20a1",
+  "unqId": "5.2.3",
+  "genderBased": "life1",
+  "categoryIcon": "https://appapi.albionline.com/cicon/HIJkQE0MI-bizhuteri-dhe-stoli.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321c386d97be698986a20b7"
+  },
+  "name": "Përparëse",
+  "slug": "Perparese",
+  "parentId": "6321c256d97be698986a20a3",
+  "unqId": "5.3.1",
+  "genderBased": "life1",
+  "categoryIcon": "https://appapi.albionline.com/cicon/lB4MAmWfV-Broshe.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6322190fa8b24308ee1bbe89"
+  },
+  "name": "Veshje",
+  "slug": "Veshje",
+  "unqId": "2.1",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/iKmsP5kQ--Bikine.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221cf14f486f4679279589"
+  },
+  "name": "T Bluzë",
+  "slug": "TBluzë ",
+  "parentId": "6322190fa8b24308ee1bbe89",
+  "unqId": "2.1.1",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/BnFMMsY1E-Kmish.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221d094f486f467927958b"
+  },
+  "name": "Pulovër",
+  "slug": "Pulover",
+  "parentId": "6322190fa8b24308ee1bbe89",
+  "unqId": "2.1.2",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/ngY_ezBQp-Pulover.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221d1a4f486f467927958d"
+  },
+  "name": "Bluzë",
+  "slug": "Bluzë",
+  "parentId": "6322190fa8b24308ee1bbe89",
+  "unqId": "2.1.3",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/nvTVI8OEm-Triko.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221d2a4f486f467927958f"
+  },
+  "name": "Kostum",
+  "slug": "Kostum",
+  "parentId": "6322190fa8b24308ee1bbe89",
+  "unqId": "2.1.4",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/t2qo0GXJB-Kostum.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221d3b4f486f4679279591"
+  },
+  "name": "Këmishë",
+  "slug": "Kemishe",
+  "parentId": "6322190fa8b24308ee1bbe89",
+  "unqId": "2.1.5",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/i4nRZ0IXC-Kmish.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221d514f486f4679279593"
+  },
+  "name": "Pallto",
+  "slug": "Pallto",
+  "parentId": "6322190fa8b24308ee1bbe89",
+  "unqId": "2.1.6",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/XV2jHlC6Q-Pallto.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221d654f486f4679279595"
+  },
+  "name": "Xhaketë",
+  "slug": "Xhakete",
+  "parentId": "6322190fa8b24308ee1bbe89",
+  "unqId": "2.1.7",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/2PlNm2efp-Xhaket.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221dc94f486f4679279599"
+  },
+  "name": "Xhup",
+  "slug": "Xhup",
+  "parentId": "6322190fa8b24308ee1bbe89",
+  "unqId": "2.1.8",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/q8joJa3P2-Xhup.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221dda4f486f467927959b"
+  },
+  "name": "Jelek",
+  "slug": "jelek",
+  "parentId": "6322190fa8b24308ee1bbe89",
+  "unqId": "2.1.9",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/AL6i6LcKa-Bluze.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221ded4f486f467927959d"
+  },
+  "name": "xhinse",
+  "slug": "xhinse",
+  "parentId": "6322190fa8b24308ee1bbe89",
+  "unqId": "2.1.10",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/5HR8grUQT-Jelek.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221e134f486f46792795a1"
+  },
+  "name": "Pantallona të shkurtra",
+  "slug": "Pantallona_te_shkurtra",
+  "parentId": "6322190fa8b24308ee1bbe89",
+  "unqId": "2.1.12",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/9CZyturGx-Xhinse.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221e804f486f46792795ad"
+  },
+  "name": "Sport",
+  "slug": "Sport",
+  "unqId": "2.2",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/Gjc3TdqBc-Bikine.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221e924f486f46792795af"
+  },
+  "name": "Këpucë",
+  "slug": "Kepuce",
+  "unqId": "2.3",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/ALW_d9snS-Bikine.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221ead4f486f46792795b1"
+  },
+  "name": "Të brendshme",
+  "slug": "Te-brendshme",
+  "unqId": "2.4",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/CIMHonhpp-Bikine.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221ec04f486f46792795b3"
+  },
+  "name": "Aksesorë",
+  "slug": "Aksesore",
+  "unqId": "2.5",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/7THsraQ6f-Bikine.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221ee24f486f46792795b7"
+  },
+  "name": "Tuta sportive",
+  "slug": "Tuta-sportive",
+  "parentId": "63221e804f486f46792795ad",
+  "unqId": "2.2.1",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/A5L-vKVdz-veshje-sportive-4.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221efe4f486f46792795b9"
+  },
+  "name": "Xhaketë Sportive",
+  "slug": "Xhakete-Sportive",
+  "parentId": "63221e804f486f46792795ad",
+  "unqId": "2.2.2",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/mBQjxOlU4-Xhaket.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221f214f486f46792795bb"
+  },
+  "name": "Atlete",
+  "slug": "Atlete",
+  "parentId": "63221e924f486f46792795af",
+  "unqId": "2.3.1",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/_9XiJhd_m-atlete-3.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221f334f486f46792795bd"
+  },
+  "name": "Këpucë",
+  "slug": "Kepuce",
+  "parentId": "63221e924f486f46792795af",
+  "unqId": "2.3.2",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/_p5Cg5IyO-kepuce-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221f444f486f46792795bf"
+  },
+  "name": "Çizme",
+  "slug": "Cizme",
+  "parentId": "63221e924f486f46792795af",
+  "unqId": "2.3.3",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/XXY8ai-R--Cizme-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221f554f486f46792795c1"
+  },
+  "name": "Sandale",
+  "slug": "Sandale",
+  "parentId": "63221e924f486f46792795af",
+  "unqId": "2.3.4",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/UXbcYl1K4-Sandale.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221f664f486f46792795c3"
+  },
+  "name": "Aksesorë këpucësh",
+  "slug": "Aksesore-kepucesh",
+  "parentId": "63221e924f486f46792795af",
+  "unqId": "2.3.5",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/6lhoG-FeQ-mokasina-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221f954f486f46792795c5"
+  },
+  "name": "Pizhame",
+  "slug": "Pizhame",
+  "parentId": "63221ead4f486f46792795b1",
+  "unqId": "2.4.1",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/W0rYV8BS5-Pardesy.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221fac4f486f46792795c7"
+  },
+  "name": "Boksere",
+  "slug": "Boksere",
+  "parentId": "63221ead4f486f46792795b1",
+  "unqId": "2.4.2",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/1nIby55Lj-boksere-2.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221fd44f486f46792795c9"
+  },
+  "name": "Çantë",
+  "slug": "Cante",
+  "parentId": "63221ec04f486f46792795b3",
+  "unqId": "2.5.1",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/a3q4nhPv_-canta.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63221feb4f486f46792795cb"
+  },
+  "name": "Rrip",
+  "slug": "Rrip",
+  "parentId": "63221ec04f486f46792795b3",
+  "unqId": "2.5.2",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/HUWJ4Ez_X-Rrip.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632220044f486f46792795cd"
+  },
+  "name": "Syze",
+  "slug": "Syze",
+  "parentId": "63221ec04f486f46792795b3",
+  "unqId": "2.5.3",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/ysBkk6uIk-syze.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6322201b4f486f46792795cf"
+  },
+  "name": "Kuletë",
+  "slug": "Kulete",
+  "parentId": "63221ec04f486f46792795b3",
+  "unqId": "2.5.4",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/qjcdvKfSM-kulete.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6322202f4f486f46792795d1"
+  },
+  "name": "Shall",
+  "slug": "Shall",
+  "parentId": "63221ec04f486f46792795b3",
+  "unqId": "2.5.5",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/JZ-oHsWFU-Shall.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632220424f486f46792795d3"
+  },
+  "name": "Dorëza",
+  "slug": "Doreza",
+  "parentId": "63221ec04f486f46792795b3",
+  "unqId": "2.5.6",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/zZS8bgKpg-doreze.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632220564f486f46792795d5"
+  },
+  "name": "Kapelë",
+  "slug": "Kapele",
+  "parentId": "63221ec04f486f46792795b3",
+  "unqId": "2.5.7",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/U-p3rrOw8-kapele.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6322206c4f486f46792795d7"
+  },
+  "name": "Mansheta",
+  "slug": "Mansheta",
+  "parentId": "63221ec04f486f46792795b3",
+  "unqId": "2.5.8",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/X1yT3GkI2-Mansheta.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632220844f486f46792795d9"
+  },
+  "name": "Krevatë",
+  "slug": "Krevate",
+  "parentId": "63221ec04f486f46792795b3",
+  "unqId": "2.5.9",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/hpfzppdIE-kulete.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6322209e4f486f46792795db"
+  },
+  "name": "Ombrellë",
+  "slug": "Ombrelle",
+  "parentId": "63221ec04f486f46792795b3",
+  "unqId": "2.5.10",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/ypzV8hKh8-omrelle.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6436b1d8c362c1f567c4e6a9"
+  },
+  "name": "Pantallona",
+  "slug": "pantallona",
+  "parentId": "6322190fa8b24308ee1bbe89",
+  "unqId": "2.1.11",
+  "genderBased": "male",
+  "categoryIcon": "https://appapi.albionline.com/cicon/5HR8grUQT-Jelek.svg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64954ea64d7e531b6734314c"
+  },
+  "name": "Bikini",
+  "slug": "Bikini",
+  "parentId": "6321a2cfd97be698986a1f6a",
+  "unqId": "1.3.8",
+  "genderBased": "female",
+  "categoryIcon": "https://appapi.albionline.com/cicon/oudhE_K_Q-Lehone.svg",
+  "__v": 0
+}]

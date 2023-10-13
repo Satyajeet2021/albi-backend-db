@@ -1,0 +1,267 @@
+[{
+  "_id": {
+    "$oid": "63ce86665b2c031f0e9a1488"
+  },
+  "statusName": "Dështuar",
+  "statusColor": "#a60f0b",
+  "statusTextColor": "#ffffff",
+  "statusDesc": "Failed to complete",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674479206688"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674479206688"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce86915b2c031f0e9a148e"
+  },
+  "statusName": "Pagesë e dështuar",
+  "statusColor": "#ce8a8f",
+  "statusTextColor": "#ffffff",
+  "statusDesc": "Payment failed",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674479249818"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674479249818"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce86c85b2c031f0e9a1494"
+  },
+  "statusName": "Kthyer",
+  "statusColor": "#020202",
+  "statusTextColor": "#ffffff",
+  "statusDesc": "Returned & Refunded",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674479304810"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674479304810"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce87015b2c031f0e9a149b"
+  },
+  "statusName": "Anuluar",
+  "statusColor": "#bf421e",
+  "statusTextColor": "#ffffff",
+  "statusDesc": "Canceled",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674479361479"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674479361479"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce87365b2c031f0e9a149e"
+  },
+  "statusName": "Pagesë në pritje",
+  "statusColor": "#a9a0b4",
+  "statusTextColor": "#ffffff",
+  "statusDesc": "Pending",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674479414624"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674479414624"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce87755b2c031f0e9a14a1"
+  },
+  "statusName": "Realizuar",
+  "statusColor": "#408f2c",
+  "statusTextColor": "#ffffff",
+  "statusDesc": "Completed",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674479477027"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674479477027"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce87be5b2c031f0e9a14a7"
+  },
+  "statusName": "Nisur",
+  "statusColor": "#af7bcc",
+  "statusTextColor": "#ffffff",
+  "statusDesc": "In delivery",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674479550295"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674479550295"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce88155b2c031f0e9a14b6"
+  },
+  "statusName": "Merre në dyqan",
+  "statusColor": "#051ec7",
+  "statusTextColor": "#ffffff",
+  "statusDesc": "Pick up in store ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674479637747"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674479637747"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce88585b2c031f0e9a14bc"
+  },
+  "statusName": "Dërgesa gati",
+  "statusColor": "#393c15",
+  "statusTextColor": "#ffffff",
+  "statusDesc": "Ready to ship",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674479704412"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674479704412"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce88875b2c031f0e9a14c5"
+  },
+  "statusName": "Verifikuar",
+  "statusColor": "#51a2e3",
+  "statusTextColor": "#ffffff",
+  "statusDesc": "Verified ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674479751121"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674479751121"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce88b55b2c031f0e9a14cd"
+  },
+  "statusName": "Hapur",
+  "statusColor": "#c8bf1a",
+  "statusTextColor": "",
+  "statusDesc": "Processing",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674479797294"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674479797294"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce88fe5b2c031f0e9a14d9"
+  },
+  "statusName": "Refuzuar",
+  "statusColor": "#984547",
+  "statusTextColor": "#ffffff",
+  "statusDesc": "Rejected",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674479870063"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674479870063"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ce89305b2c031f0e9a14e2"
+  },
+  "statusName": "On hold",
+  "statusColor": "#dabbba",
+  "statusTextColor": "#ffffff",
+  "statusDesc": "Complicated orders ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674479920692"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674479920692"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646b16d2b04fc9dfddf0bd11"
+  },
+  "statusName": "Pjesërisht e kthyer",
+  "statusColor": "#1cbfd4",
+  "statusTextColor": "",
+  "statusDesc": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684739794305"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684739794305"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "63dd157a711fa5fdeea9a2b6"
+  },
+  "faqlist": [
+    {
+      "title": "Çfarë është Albi Online?",
+      "description": "Albi Online është një platformë online që ofron një gamë të gjerë produktesh nga brendet më të njohura botërore në kategori të ndryshme.\n"
+    },
+    {
+      "title": "Çfarë lloje produktesh ofron Albi Online?",
+      "description": "Albi Online ofron një gamë të madhe produktesh duke përfshirë veshje, kozmetikë, mallra shtëpiake dhe më shumë."
+    },
+    {
+      "title": "Çfarë brende mban Albi Online?",
+      "description": "Albi Online mbart brende të njohura si Hugo, Boss, Tom Tailor, Mango, Women Secret, Yamamay, Springfield, Replay, Timberland, XYZ Guess, Carpisa, Oliver Weber, Celio, Chaussea dhe shumë të tjera."
+    },
+    {
+      "title": "A janë të sigurta dhe të sigurta blerjet në Albi Online?",
+      "description": "Po, Albi Online përdor masat më të fundit të sigurisë për të mbrojtur informacionin dhe transaksionet tuaja personale."
+    },
+    {
+      "title": "Çfarë formash pagese pranon Albi Online?",
+      "description": "Albi Online pranon forma të ndryshme pagese, duke përfshirë :\nKartat e kreditit\nPagesë me Starcard\nPagesë me Bonus kartelë\nPagesë me para në dorë"
+    },
+    {
+      "title": "Si i trajton Albi Online kthimet dhe shkëmbimet?",
+      "description": "Albi Online ka një politikë kthimi dhe këmbimi për artikujt që janë në gjendje të re dhe të papërdorur me paketim origjinal. Për më shumë informacion mbi politikën tonë, ju lutemi referohuni tek seksioni  Kthimet në faqen tonë të internetit."
+    },
+    {
+      "title": "Si ta gjurmoj porosinë time?",
+      "description": "Pas kryerjes së porosisë në Albi Online, do të pranoni një email me detajet e porosisë tuaj. Ju gjithashtu mund të identifikoheni në llogarinë tuaj për të parë statusin e porosisë."
+    },
+    {
+      "title": "Sa kohë zgjat transporti?",
+      "description": "Transporti i porosisë tuaj bëhet brenda 24 deri 48 orë."
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675433338447"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675433338447"
+    }
+  },
+  "__v": 0
+}]

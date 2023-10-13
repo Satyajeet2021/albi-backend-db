@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "63ad5ba36e6a25ab76476da0"
+  },
+  "vendorId": "62c2be8de007e241b4629d33",
+  "bannerImage": "https://localhost:5000/bannerUploads/tJNtREGG5-banner.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672305571525"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672305632295"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad5bf16e6a25ab76476daf"
+  },
+  "vendorId": "62c813d064e57179b2736a71",
+  "bannerImage": "https://localhost:5000/bannerUploads/VLaKR_l5G-facebook-loading-icon-15.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672305649174"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672305649174"
+    }
+  },
+  "__v": 0
+}]

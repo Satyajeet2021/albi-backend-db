@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "634dc92c1c980d5b33786411"
+  },
+  "vatData": "18",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666042156707"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671096941312"
+    }
+  },
+  "__v": 0,
+  "paymentType": "cod"
+}]

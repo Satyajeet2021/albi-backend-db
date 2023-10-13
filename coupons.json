@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "62f3950553ebfb99058fd34b"
+  },
+  "couponCode": "WE1UCE",
+  "couponDescription": "<p>sdfjv</p>",
+  "couponType": "Fixed Cart Discount",
+  "couponUsage": "100",
+  "couponExpire": "2022-08-10",
+  "status": "active",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660130565986"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661413437312"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f39837b61341d5f9c72953"
+  },
+  "couponCode": "DJZNNV",
+  "couponDescription": "<p>asdkjb</p>",
+  "couponType": "Percentage Discount",
+  "couponUsage": "127",
+  "couponExpire": "2022-08-10",
+  "status": "active",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660131383442"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660131383442"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62fcf0506979fc518d5ae99f"
+  },
+  "couponCode": "HUD4Y4",
+  "couponDescription": "<p>Aline</p>",
+  "couponType": "Fixed Product Discount",
+  "couponUsage": "10",
+  "couponExpire": "2022-08-18",
+  "status": "active",
+  "indivisualUse": "true",
+  "excludeUse": "false",
+  "productList": [
+    {
+      "label": "Items A",
+      "value": "Items A"
+    },
+    {
+      "label": "Items B",
+      "value": "Items B"
+    },
+    {
+      "label": "Items C",
+      "value": "Items C"
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660743760519"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660743760519"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "65114380725c2623ce666ae9"
+  },
+  "couponCode": "4XQZ20",
+  "couponDescription": "",
+  "couponType": "",
+  "couponUsage": "",
+  "couponExpire": "",
+  "status": "active",
+  "indivisualUse": "false",
+  "excludeUse": "false",
+  "productList": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1695630208418"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1695630208418"
+    }
+  },
+  "__v": 0
+}]

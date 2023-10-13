@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "639837d8c9408dcfd343a32f"
+  },
+  "vendorEmail": "admin@gmail.com",
+  "bannerImage": "https://appapi.albionline.com/bannerUploads/a41pCiBWC-2225.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670920152052"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674217031767"
+    }
+  },
+  "__v": 0,
+  "linkName": ""
+}]

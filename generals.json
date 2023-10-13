@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "63abf409563b1817165d2f2c"
+  },
+  "allData": [
+    {
+      "home": {
+        "random": [
+          "cerulean"
+        ],
+        "custom": [
+          "fuchsia rose"
+        ],
+        "brand": [
+          "fuchsia rose"
+        ]
+      },
+      "footer": {
+        "phone": "",
+        "address": "<p></p>",
+        "email": "",
+        "facebook": "",
+        "instagram": "",
+        "youtube": "",
+        "twitter": ""
+      },
+      "contact": {
+        "content": ""
+      },
+      "price": {
+        "min": "",
+        "max": ""
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672213513259"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672213513259"
+    }
+  },
+  "__v": 0
+}]
